@@ -1,2 +1,3 @@
-# My-New-Repo
+# My-New-Repo-1
 Connecting VS Code to Github
+I was thinking I can start a website or a blog that initiates men & women to unify and have a conversation about changes that should've happened a long time ago.  Changes that even the new generations know we are in trouble.  So I thought it would be nice to start off by having every single human being with a healthy self-conscious, to write or type a letter, well an apology to Mother Earth for the distruction we have caused her.  I need help designing the website (front-end & backend) or blog so that this small but heavy task can spread like a good virus.  Apologizing is the first step to a greater tomorrow. Let's do this now let's do this together.  Peace
